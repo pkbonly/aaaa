@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700');
+body,ul,li {
+	margin: 0;
+	padding: 0;
+}
+span {
+    font-weight: 700;
+    margin-right: 10px;
+}
+body {
+	font-family: 'Roboto Condensed', sans-serif;
+	background: #95a5a6;
+	font-weight: 300;
+}
+.container {
+	width: 80%;
+	margin:0 auto;
+	background:#7f8c8d;
+	padding:10px 20px;
+}
+h2 {
+	padding: 10px 0;
+	text-transform: capitalize;
+	font-size: 35px;
+}
+.header {
+	padding:5px;
+}
+.header h3 {
+    margin-left: 15px;
+}
+.header p {
+    font-weight: 400;
+}
+.header-left {
+	float:left;
+	width:50%;
+}
+.header-left a img {
+	width:150px;
+	height:150px;
+	border-radius: 50%;
+}
+.header-right {
+	overflow:hidden;
+	width:50%;
+	margin-top: 25px;
+}
+
+.interested p {
+	margin-bottom: 50px;
+}
+.thanks {
+	text-align:center;
+	margin-bottom: 50px;
+	font-weight: 700;
+	font-size: 30px;
+	text-transform: uppercase;
+}
+.personal-1 {
+	float: left;
+	width: 50%;
+		
+}
+.personal-2 {
+	overflow:hidden;
+	width: 50%;
+}
+.personal-information {
+	overflow:hidden;
+}
+.skill-1 {
+	float:left;
+	width:50%;
+}
+.skill-2 {
+	overflow: hidden;
+	width:50%;
+}
+.skills p {
+	text-transform: uppercase;
+}
+.certification ul li {
+    margin: 15px;
+}
